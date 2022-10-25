@@ -18,6 +18,17 @@ app.get('/instructors/:id', (req, res) => {
     res.send(singleInstructor)
 })
 
+
+app.get('/courses', (req, res) => {
+    res.send(courses)
+})
+
+
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id
+    const singleCourse = courses.find(c => c.id === id)
+    res.send(singleCourse)
+})
 app.listen(port, () => {
     console.log('app is running in port', port)
 })

@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const cors = require('cors')
 const instructors = require('./data/instructors.json')
-
+const courses = require('./data/courses.json')
 
 app.use(cors())
 

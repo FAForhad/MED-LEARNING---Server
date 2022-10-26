@@ -1,234 +1,279 @@
 [
     {
         "id": "635795fd542ac267753a82ff",
-        "picture": "http://placehold.it/32x32",
-        "name": "Golden Sharp",
-        "duration": "Barber Alvarado",
+        "picture": "https://images.unsplash.com/photo-1576671081837-49000212a370?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1398&q=80",
+        "name": "Antibiotic syrup",
+        "duration": "23.20 hr",
         "email": "barberalvarado@ziggles.com",
         "phone": "+1 (868) 566-2130",
         "courses": [
             {
-                "course1": "Qui magna aliqua sunt est qui excepteur laborum ullamco commodo amet dolore commodo ad. Amet sit esse officia incididunt fugiat do non in labore. course5 amet sint reprehenderit ipsum nostrud. Nostrud officia reprehenderit sunt ea culpa magna esse officia acourse5e et enim ex dolor fugiat. Deserunt eiusmod ex quis occaecat sit ea incididunt non acourse5e enim ex.\r\n"
+                "name": "Cefuroxime Axetil",
+                "course": "Cefuroxime comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken every 12 hours for 5-10 days, depending on the condition being treated. To treat gonorrhea, cefuroxime is taken as a single dose, and to treat Lyme disease, cefuroxime is taken every 12 hours for 20 days. Take the suspension with food; the tablet may be taken with or without food . Take cefuroxime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefuroxime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.\r\n"
             },
             {
-                "course2": "Eu aliquip labore nulla exercitation occaecat dolor occaecat est esse veniam consectetur id. Ex cillum id amet proident in sint incididunt deserunt voluptate. Do course5 magna veniam ex cillum.\r\n"
+                "name": "Azithromycin",
+                "course": "Azithromycin is used to treat many different types of infections caused by bacteria, such as respiratory infections, skin infections, ear infections, eye infections, and sexually transmitted diseases. Azithromycin may also be used for purposes not listed in this medication guide.\r\n"
             },
             {
-                "course3": "course5 irure deserunt laborum deserunt. Id enim amet cupidatat enim Lorem ex labore deserunt minim sit enim non. Nulla cillum dolore pariatur adipisicing irure acourse5e eu sint ea commodo do exercitation consectetur. Reprehenderit ex non tempor reprehenderit id ipsum duis Lorem commodo ipsum. Ad elit excepteur consectetur amet course5 enim dolore consectetur Lorem deserunt consectetur anim nostrud. Pariatur consectetur proident irure consectetur sunt mollit nisi sit esse enim sunt laboris sit.\r\n"
+                "name": "Cefixime trihydrate",
+                "course": "Cefixime is an antibiotic that may be used to treat many different types of infections caused by bacteria.Cefixime stops bacteria from forming a cell wall, which bacteria need to survive. This decreases the number of bacteria in your body, which helps your body fight the infection.\r\n"
             },
             {
-                "course4": "Do sint officia non ullamco dolore non acourse5e anim do consectetur sit ullamco. Adipisicing et acourse5e id exercitation sit laborum commodo. Tempor reprehenderit consectetur Lorem sint commodo velit officia.\r\n"
+                "name": "Clavulanic acid",
+                "course": "Clavulanic acid is a medication that can be used in conjunction with amoxicillin to manage and treat bacterial infections, specifically bacteria that are beta-lactamase producers. It is in the beta-lactamase inhibitor class of medications. This activity describes the indications, action, and contraindications for clavulanic acid as a valuable agent in the treatment of beta-lactamase-producing bacterial infections when used with amoxicillin and how the interprofessional team can use this agent to drive positive outcomes in fighting infections.\r\n"
             },
             {
-                "course5": "Dolore minim enim dolore quis ea. Ea velit non ullamco proident quis deserunt. Aliquip eu velit incididunt excepteur do in deserunt et labore amet labore tempor.\r\n"
+                "name": "Flucloxacillin Sodium",
+                "course": "Flucloxacillin Sodium is an antibiotic. It kills bacteria by preventing them from forming their own protective covering (cell wall) which is needed for them to survive. This treats your infection.Common side effects of Flucloxacillin SodiumNausea, Vomiting, Diarrhea, Allergic reaction, Injection site reactions (pain, swelling, redness)\r\n"
             }
         ],
         "registered": "2019-06-05T02:11:50 -06:00"
     },
     {
         "id": "635795fd355c944b6618e059",
-        "picture": "http://placehold.it/32x32",
-        "name": "Decker Santiago",
-        "duration": "Candy Hodges",
+        "picture": "https://img.freepik.com/free-photo/packings-pills-capsules-medicines_1339-2254.jpg?w=996&t=st=1666691745~exp=1666692345~hmac=b9dfeb45f93251e89e1c01ecc2c46f0893df7b450340b5036e13bb7c1cc49864",
+        "name": "Antibioti Tablet",
+        "duration": "20.15 hr",
         "email": "candyhodges@ziggles.com",
         "phone": "+1 (972) 489-3726",
         "courses": [
             {
-                "course1": "Qui magna aliqua sunt est qui excepteur laborum ullamco commodo amet dolore commodo ad. Amet sit esse officia incididunt fugiat do non in labore. course5 amet sint reprehenderit ipsum nostrud. Nostrud officia reprehenderit sunt ea culpa magna esse officia acourse5e et enim ex dolor fugiat. Deserunt eiusmod ex quis occaecat sit ea incididunt non acourse5e enim ex.\r\n"
+                "name": "Cefuroxime Axetil",
+                "course": "Cefuroxime comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken every 12 hours for 5-10 days, depending on the condition being treated. To treat gonorrhea, cefuroxime is taken as a single dose, and to treat Lyme disease, cefuroxime is taken every 12 hours for 20 days. Take the suspension with food; the tablet may be taken with or without food . Take cefuroxime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefuroxime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.\r\n"
             },
             {
-                "course2": "Eu aliquip labore nulla exercitation occaecat dolor occaecat est esse veniam consectetur id. Ex cillum id amet proident in sint incididunt deserunt voluptate. Do course5 magna veniam ex cillum.\r\n"
+                "name": "Azithromycin",
+                "course": "Azithromycin is used to treat many different types of infections caused by bacteria, such as respiratory infections, skin infections, ear infections, eye infections, and sexually transmitted diseases. Azithromycin may also be used for purposes not listed in this medication guide.\r\n"
             },
             {
-                "course3": "course5 irure deserunt laborum deserunt. Id enim amet cupidatat enim Lorem ex labore deserunt minim sit enim non. Nulla cillum dolore pariatur adipisicing irure acourse5e eu sint ea commodo do exercitation consectetur. Reprehenderit ex non tempor reprehenderit id ipsum duis Lorem commodo ipsum. Ad elit excepteur consectetur amet course5 enim dolore consectetur Lorem deserunt consectetur anim nostrud. Pariatur consectetur proident irure consectetur sunt mollit nisi sit esse enim sunt laboris sit.\r\n"
+                "name": "Cefixime trihydrate",
+                "course": "Cefixime is an antibiotic that may be used to treat many different types of infections caused by bacteria.Cefixime stops bacteria from forming a cell wall, which bacteria need to survive. This decreases the number of bacteria in your body, which helps your body fight the infection.\r\n"
             },
             {
-                "course4": "Do sint officia non ullamco dolore non acourse5e anim do consectetur sit ullamco. Adipisicing et acourse5e id exercitation sit laborum commodo. Tempor reprehenderit consectetur Lorem sint commodo velit officia.\r\n"
+                "name": "Clavulanic acid",
+                "course": "Clavulanic acid is a medication that can be used in conjunction with amoxicillin to manage and treat bacterial infections, specifically bacteria that are beta-lactamase producers. It is in the beta-lactamase inhibitor class of medications. This activity describes the indications, action, and contraindications for clavulanic acid as a valuable agent in the treatment of beta-lactamase-producing bacterial infections when used with amoxicillin and how the interprofessional team can use this agent to drive positive outcomes in fighting infections.\r\n"
             },
             {
-                "course5": "Dolore minim enim dolore quis ea. Ea velit non ullamco proident quis deserunt. Aliquip eu velit incididunt excepteur do in deserunt et labore amet labore tempor.\r\n"
+                "name": "Flucloxacillin Sodium",
+                "course": "Flucloxacillin Sodium is an antibiotic. It kills bacteria by preventing them from forming their own protective covering (cell wall) which is needed for them to survive. This treats your infection.Common side effects of Flucloxacillin SodiumNausea, Vomiting, Diarrhea, Allergic reaction, Injection site reactions (pain, swelling, redness)\r\n"
             }
         ],
         "registered": "2014-12-08T02:44:56 -06:00"
     },
     {
         "id": "635795fd2f731427b8841612",
-        "picture": "http://placehold.it/32x32",
-        "name": "Bernice Stephens",
-        "duration": "Shannon Jenkins",
+        "picture": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2019/07/Stocksy_txp1db08719PYB300_Medium_1343268_header-1024x575.jpg?w=1575",
+        "name": "Hyperlipoproteinemia treat",
+        "duration": "57.15 hr",
         "email": "shannonjenkins@ziggles.com",
         "phone": "+1 (825) 574-3216",
         "courses": [
             {
-                "course1": "Qui magna aliqua sunt est qui excepteur laborum ullamco commodo amet dolore commodo ad. Amet sit esse officia incididunt fugiat do non in labore. course5 amet sint reprehenderit ipsum nostrud. Nostrud officia reprehenderit sunt ea culpa magna esse officia acourse5e et enim ex dolor fugiat. Deserunt eiusmod ex quis occaecat sit ea incididunt non acourse5e enim ex.\r\n"
+                "name": "Cefuroxime Axetil",
+                "course": "Cefuroxime comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken every 12 hours for 5-10 days, depending on the condition being treated. To treat gonorrhea, cefuroxime is taken as a single dose, and to treat Lyme disease, cefuroxime is taken every 12 hours for 20 days. Take the suspension with food; the tablet may be taken with or without food . Take cefuroxime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefuroxime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.\r\n"
             },
             {
-                "course2": "Eu aliquip labore nulla exercitation occaecat dolor occaecat est esse veniam consectetur id. Ex cillum id amet proident in sint incididunt deserunt voluptate. Do course5 magna veniam ex cillum.\r\n"
+                "name": "Azithromycin",
+                "course": "Azithromycin is used to treat many different types of infections caused by bacteria, such as respiratory infections, skin infections, ear infections, eye infections, and sexually transmitted diseases. Azithromycin may also be used for purposes not listed in this medication guide.\r\n"
             },
             {
-                "course3": "course5 irure deserunt laborum deserunt. Id enim amet cupidatat enim Lorem ex labore deserunt minim sit enim non. Nulla cillum dolore pariatur adipisicing irure acourse5e eu sint ea commodo do exercitation consectetur. Reprehenderit ex non tempor reprehenderit id ipsum duis Lorem commodo ipsum. Ad elit excepteur consectetur amet course5 enim dolore consectetur Lorem deserunt consectetur anim nostrud. Pariatur consectetur proident irure consectetur sunt mollit nisi sit esse enim sunt laboris sit.\r\n"
+                "name": "Cefixime trihydrate",
+                "course": "Cefixime is an antibiotic that may be used to treat many different types of infections caused by bacteria.Cefixime stops bacteria from forming a cell wall, which bacteria need to survive. This decreases the number of bacteria in your body, which helps your body fight the infection.\r\n"
             },
             {
-                "course4": "Do sint officia non ullamco dolore non acourse5e anim do consectetur sit ullamco. Adipisicing et acourse5e id exercitation sit laborum commodo. Tempor reprehenderit consectetur Lorem sint commodo velit officia.\r\n"
+                "name": "Clavulanic acid",
+                "course": "Clavulanic acid is a medication that can be used in conjunction with amoxicillin to manage and treat bacterial infections, specifically bacteria that are beta-lactamase producers. It is in the beta-lactamase inhibitor class of medications. This activity describes the indications, action, and contraindications for clavulanic acid as a valuable agent in the treatment of beta-lactamase-producing bacterial infections when used with amoxicillin and how the interprofessional team can use this agent to drive positive outcomes in fighting infections.\r\n"
             },
             {
-                "course5": "Dolore minim enim dolore quis ea. Ea velit non ullamco proident quis deserunt. Aliquip eu velit incididunt excepteur do in deserunt et labore amet labore tempor.\r\n"
+                "name": "Flucloxacillin Sodium",
+                "course": "Flucloxacillin Sodium is an antibiotic. It kills bacteria by preventing them from forming their own protective covering (cell wall) which is needed for them to survive. This treats your infection.Common side effects of Flucloxacillin SodiumNausea, Vomiting, Diarrhea, Allergic reaction, Injection site reactions (pain, swelling, redness)\r\n"
             }
         ],
         "registered": "2018-08-12T08:43:51 -06:00"
     },
     {
         "id": "635795fd7a7c8300dda35bfa",
-        "picture": "http://placehold.it/32x32",
-        "name": "Hilda Golden",
-        "duration": "Chandra Mcleod",
+        "picture": "https://img.freepik.com/free-photo/woman-sitting-home-with-cold-taking-pills_1157-29534.jpg?w=1380&t=st=1666691936~exp=1666692536~hmac=8dabf888244be514a289b7c43277702a2c05ec116f324c217074aec7be1e9ca0",
+        "name": "Dosage information",
+        "duration": "23.10 hr",
         "email": "chandramcleod@ziggles.com",
         "phone": "+1 (831) 490-2120",
         "courses": [
             {
-                "course1": "Qui magna aliqua sunt est qui excepteur laborum ullamco commodo amet dolore commodo ad. Amet sit esse officia incididunt fugiat do non in labore. course5 amet sint reprehenderit ipsum nostrud. Nostrud officia reprehenderit sunt ea culpa magna esse officia acourse5e et enim ex dolor fugiat. Deserunt eiusmod ex quis occaecat sit ea incididunt non acourse5e enim ex.\r\n"
+                "name": "Cefuroxime Axetil",
+                "course": "Cefuroxime comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken every 12 hours for 5-10 days, depending on the condition being treated. To treat gonorrhea, cefuroxime is taken as a single dose, and to treat Lyme disease, cefuroxime is taken every 12 hours for 20 days. Take the suspension with food; the tablet may be taken with or without food . Take cefuroxime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefuroxime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.\r\n"
             },
             {
-                "course2": "Eu aliquip labore nulla exercitation occaecat dolor occaecat est esse veniam consectetur id. Ex cillum id amet proident in sint incididunt deserunt voluptate. Do course5 magna veniam ex cillum.\r\n"
+                "name": "Azithromycin",
+                "course": "Azithromycin is used to treat many different types of infections caused by bacteria, such as respiratory infections, skin infections, ear infections, eye infections, and sexually transmitted diseases. Azithromycin may also be used for purposes not listed in this medication guide.\r\n"
             },
             {
-                "course3": "course5 irure deserunt laborum deserunt. Id enim amet cupidatat enim Lorem ex labore deserunt minim sit enim non. Nulla cillum dolore pariatur adipisicing irure acourse5e eu sint ea commodo do exercitation consectetur. Reprehenderit ex non tempor reprehenderit id ipsum duis Lorem commodo ipsum. Ad elit excepteur consectetur amet course5 enim dolore consectetur Lorem deserunt consectetur anim nostrud. Pariatur consectetur proident irure consectetur sunt mollit nisi sit esse enim sunt laboris sit.\r\n"
+                "name": "Cefixime trihydrate",
+                "course": "Cefixime is an antibiotic that may be used to treat many different types of infections caused by bacteria.Cefixime stops bacteria from forming a cell wall, which bacteria need to survive. This decreases the number of bacteria in your body, which helps your body fight the infection.\r\n"
             },
             {
-                "course4": "Do sint officia non ullamco dolore non acourse5e anim do consectetur sit ullamco. Adipisicing et acourse5e id exercitation sit laborum commodo. Tempor reprehenderit consectetur Lorem sint commodo velit officia.\r\n"
+                "name": "Clavulanic acid",
+                "course": "Clavulanic acid is a medication that can be used in conjunction with amoxicillin to manage and treat bacterial infections, specifically bacteria that are beta-lactamase producers. It is in the beta-lactamase inhibitor class of medications. This activity describes the indications, action, and contraindications for clavulanic acid as a valuable agent in the treatment of beta-lactamase-producing bacterial infections when used with amoxicillin and how the interprofessional team can use this agent to drive positive outcomes in fighting infections.\r\n"
             },
             {
-                "course5": "Dolore minim enim dolore quis ea. Ea velit non ullamco proident quis deserunt. Aliquip eu velit incididunt excepteur do in deserunt et labore amet labore tempor.\r\n"
+                "name": "Flucloxacillin Sodium",
+                "course": "Flucloxacillin Sodium is an antibiotic. It kills bacteria by preventing them from forming their own protective covering (cell wall) which is needed for them to survive. This treats your infection.Common side effects of Flucloxacillin SodiumNausea, Vomiting, Diarrhea, Allergic reaction, Injection site reactions (pain, swelling, redness)\r\n"
             }
         ],
         "registered": "2014-03-16T12:08:35 -06:00"
     },
     {
         "id": "635795fd96cbc25fc21f2a62",
-        "picture": "http://placehold.it/32x32",
-        "name": "Hudson Cervantes",
-        "duration": "Cash Arnold",
+        "picture": "https://img.freepik.com/free-photo/examining-sample-with-microscope_1098-18424.jpg?w=1380&t=st=1666691979~exp=1666692579~hmac=c704fc7bebbd6d8daf7206cdd9f1d7b01d0c2ce0be39b53c2ff1147b934241aa",
+        "name": "Laboratory Tests",
+        "duration": "28.35 hr",
         "email": "casharnold@ziggles.com",
         "phone": "+1 (907) 509-2017",
         "courses": [
             {
-                "course1": "Qui magna aliqua sunt est qui excepteur laborum ullamco commodo amet dolore commodo ad. Amet sit esse officia incididunt fugiat do non in labore. course5 amet sint reprehenderit ipsum nostrud. Nostrud officia reprehenderit sunt ea culpa magna esse officia acourse5e et enim ex dolor fugiat. Deserunt eiusmod ex quis occaecat sit ea incididunt non acourse5e enim ex.\r\n"
+                "name": "Cefuroxime Axetil",
+                "course": "Cefuroxime comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken every 12 hours for 5-10 days, depending on the condition being treated. To treat gonorrhea, cefuroxime is taken as a single dose, and to treat Lyme disease, cefuroxime is taken every 12 hours for 20 days. Take the suspension with food; the tablet may be taken with or without food . Take cefuroxime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefuroxime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.\r\n"
             },
             {
-                "course2": "Eu aliquip labore nulla exercitation occaecat dolor occaecat est esse veniam consectetur id. Ex cillum id amet proident in sint incididunt deserunt voluptate. Do course5 magna veniam ex cillum.\r\n"
+                "name": "Azithromycin",
+                "course": "Azithromycin is used to treat many different types of infections caused by bacteria, such as respiratory infections, skin infections, ear infections, eye infections, and sexually transmitted diseases. Azithromycin may also be used for purposes not listed in this medication guide.\r\n"
             },
             {
-                "course3": "course5 irure deserunt laborum deserunt. Id enim amet cupidatat enim Lorem ex labore deserunt minim sit enim non. Nulla cillum dolore pariatur adipisicing irure acourse5e eu sint ea commodo do exercitation consectetur. Reprehenderit ex non tempor reprehenderit id ipsum duis Lorem commodo ipsum. Ad elit excepteur consectetur amet course5 enim dolore consectetur Lorem deserunt consectetur anim nostrud. Pariatur consectetur proident irure consectetur sunt mollit nisi sit esse enim sunt laboris sit.\r\n"
+                "name": "Cefixime trihydrate",
+                "course": "Cefixime is an antibiotic that may be used to treat many different types of infections caused by bacteria.Cefixime stops bacteria from forming a cell wall, which bacteria need to survive. This decreases the number of bacteria in your body, which helps your body fight the infection.\r\n"
             },
             {
-                "course4": "Do sint officia non ullamco dolore non acourse5e anim do consectetur sit ullamco. Adipisicing et acourse5e id exercitation sit laborum commodo. Tempor reprehenderit consectetur Lorem sint commodo velit officia.\r\n"
+                "name": "Clavulanic acid",
+                "course": "Clavulanic acid is a medication that can be used in conjunction with amoxicillin to manage and treat bacterial infections, specifically bacteria that are beta-lactamase producers. It is in the beta-lactamase inhibitor class of medications. This activity describes the indications, action, and contraindications for clavulanic acid as a valuable agent in the treatment of beta-lactamase-producing bacterial infections when used with amoxicillin and how the interprofessional team can use this agent to drive positive outcomes in fighting infections.\r\n"
             },
             {
-                "course5": "Dolore minim enim dolore quis ea. Ea velit non ullamco proident quis deserunt. Aliquip eu velit incididunt excepteur do in deserunt et labore amet labore tempor.\r\n"
+                "name": "Flucloxacillin Sodium",
+                "course": "Flucloxacillin Sodium is an antibiotic. It kills bacteria by preventing them from forming their own protective covering (cell wall) which is needed for them to survive. This treats your infection.Common side effects of Flucloxacillin SodiumNausea, Vomiting, Diarrhea, Allergic reaction, Injection site reactions (pain, swelling, redness)\r\n"
             }
         ],
         "registered": "2015-03-22T03:46:33 -06:00"
     },
     {
         "id": "635795fdc2c813e08c474c3f",
-        "picture": "http://placehold.it/32x32",
-        "name": "Shelby Pratt",
-        "duration": "Mack West",
+        "picture": "https://img.freepik.com/free-photo/closeup-view-pharmacist-hand-taking-medicine-box-from-shelf-drug-store_342744-320.jpg?w=1380&t=st=1666692144~exp=1666692744~hmac=17f93802b04b76cf3287617a639a40fc8cec93fb73aa88909c71af601c07d9cc",
+        "name": "Medicine hall",
+        "duration": "18.35 hr",
         "email": "mackwest@ziggles.com",
         "phone": "+1 (883) 592-3833",
         "courses": [
             {
-                "course1": "Qui magna aliqua sunt est qui excepteur laborum ullamco commodo amet dolore commodo ad. Amet sit esse officia incididunt fugiat do non in labore. course5 amet sint reprehenderit ipsum nostrud. Nostrud officia reprehenderit sunt ea culpa magna esse officia acourse5e et enim ex dolor fugiat. Deserunt eiusmod ex quis occaecat sit ea incididunt non acourse5e enim ex.\r\n"
+                "name": "Cefuroxime Axetil",
+                "course": "Cefuroxime comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken every 12 hours for 5-10 days, depending on the condition being treated. To treat gonorrhea, cefuroxime is taken as a single dose, and to treat Lyme disease, cefuroxime is taken every 12 hours for 20 days. Take the suspension with food; the tablet may be taken with or without food . Take cefuroxime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefuroxime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.\r\n"
             },
             {
-                "course2": "Eu aliquip labore nulla exercitation occaecat dolor occaecat est esse veniam consectetur id. Ex cillum id amet proident in sint incididunt deserunt voluptate. Do course5 magna veniam ex cillum.\r\n"
+                "name": "Azithromycin",
+                "course": "Azithromycin is used to treat many different types of infections caused by bacteria, such as respiratory infections, skin infections, ear infections, eye infections, and sexually transmitted diseases. Azithromycin may also be used for purposes not listed in this medication guide.\r\n"
             },
             {
-                "course3": "course5 irure deserunt laborum deserunt. Id enim amet cupidatat enim Lorem ex labore deserunt minim sit enim non. Nulla cillum dolore pariatur adipisicing irure acourse5e eu sint ea commodo do exercitation consectetur. Reprehenderit ex non tempor reprehenderit id ipsum duis Lorem commodo ipsum. Ad elit excepteur consectetur amet course5 enim dolore consectetur Lorem deserunt consectetur anim nostrud. Pariatur consectetur proident irure consectetur sunt mollit nisi sit esse enim sunt laboris sit.\r\n"
+                "name": "Cefixime trihydrate",
+                "course": "Cefixime is an antibiotic that may be used to treat many different types of infections caused by bacteria.Cefixime stops bacteria from forming a cell wall, which bacteria need to survive. This decreases the number of bacteria in your body, which helps your body fight the infection.\r\n"
             },
             {
-                "course4": "Do sint officia non ullamco dolore non acourse5e anim do consectetur sit ullamco. Adipisicing et acourse5e id exercitation sit laborum commodo. Tempor reprehenderit consectetur Lorem sint commodo velit officia.\r\n"
+                "name": "Clavulanic acid",
+                "course": "Clavulanic acid is a medication that can be used in conjunction with amoxicillin to manage and treat bacterial infections, specifically bacteria that are beta-lactamase producers. It is in the beta-lactamase inhibitor class of medications. This activity describes the indications, action, and contraindications for clavulanic acid as a valuable agent in the treatment of beta-lactamase-producing bacterial infections when used with amoxicillin and how the interprofessional team can use this agent to drive positive outcomes in fighting infections.\r\n"
             },
             {
-                "course5": "Dolore minim enim dolore quis ea. Ea velit non ullamco proident quis deserunt. Aliquip eu velit incididunt excepteur do in deserunt et labore amet labore tempor.\r\n"
+                "name": "Flucloxacillin Sodium",
+                "course": "Flucloxacillin Sodium is an antibiotic. It kills bacteria by preventing them from forming their own protective covering (cell wall) which is needed for them to survive. This treats your infection.Common side effects of Flucloxacillin SodiumNausea, Vomiting, Diarrhea, Allergic reaction, Injection site reactions (pain, swelling, redness)\r\n"
             }
         ],
         "registered": "2016-04-07T03:20:55 -06:00"
     },
     {
         "id": "635795fdc2c813e08c474c32f",
-        "picture": "http://placehold.it/32x32",
-        "name": "Shelby Pratt",
-        "duration": "Mack West",
+        "picture": "https://img.freepik.com/free-photo/groupe-researchers-pharmacology-hospital-laboratory-modern-equipment-research-laboratory_482257-34686.jpg?w=1380&t=st=1666692197~exp=1666692797~hmac=ef110b944f9136614a290195dd608b3e3b7f0c2f2cf238cad9f8cc28fb5d6e6b",
+        "name": "Clinical Pharmacology",
+        "duration": "58.35 hr",
         "email": "mackwest@ziggles.com",
         "phone": "+1 (883) 592-3833",
         "courses": [
             {
-                "course1": "Qui magna aliqua sunt est qui excepteur laborum ullamco commodo amet dolore commodo ad. Amet sit esse officia incididunt fugiat do non in labore. course5 amet sint reprehenderit ipsum nostrud. Nostrud officia reprehenderit sunt ea culpa magna esse officia acourse5e et enim ex dolor fugiat. Deserunt eiusmod ex quis occaecat sit ea incididunt non acourse5e enim ex.\r\n"
+                "name": "Cefuroxime Axetil",
+                "course": "Cefuroxime comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken every 12 hours for 5-10 days, depending on the condition being treated. To treat gonorrhea, cefuroxime is taken as a single dose, and to treat Lyme disease, cefuroxime is taken every 12 hours for 20 days. Take the suspension with food; the tablet may be taken with or without food . Take cefuroxime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefuroxime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.\r\n"
             },
             {
-                "course2": "Eu aliquip labore nulla exercitation occaecat dolor occaecat est esse veniam consectetur id. Ex cillum id amet proident in sint incididunt deserunt voluptate. Do course5 magna veniam ex cillum.\r\n"
+                "name": "Azithromycin",
+                "course": "Azithromycin is used to treat many different types of infections caused by bacteria, such as respiratory infections, skin infections, ear infections, eye infections, and sexually transmitted diseases. Azithromycin may also be used for purposes not listed in this medication guide.\r\n"
             },
             {
-                "course3": "course5 irure deserunt laborum deserunt. Id enim amet cupidatat enim Lorem ex labore deserunt minim sit enim non. Nulla cillum dolore pariatur adipisicing irure acourse5e eu sint ea commodo do exercitation consectetur. Reprehenderit ex non tempor reprehenderit id ipsum duis Lorem commodo ipsum. Ad elit excepteur consectetur amet course5 enim dolore consectetur Lorem deserunt consectetur anim nostrud. Pariatur consectetur proident irure consectetur sunt mollit nisi sit esse enim sunt laboris sit.\r\n"
+                "name": "Cefixime trihydrate",
+                "course": "Cefixime is an antibiotic that may be used to treat many different types of infections caused by bacteria.Cefixime stops bacteria from forming a cell wall, which bacteria need to survive. This decreases the number of bacteria in your body, which helps your body fight the infection.\r\n"
             },
             {
-                "course4": "Do sint officia non ullamco dolore non acourse5e anim do consectetur sit ullamco. Adipisicing et acourse5e id exercitation sit laborum commodo. Tempor reprehenderit consectetur Lorem sint commodo velit officia.\r\n"
+                "name": "Clavulanic acid",
+                "course": "Clavulanic acid is a medication that can be used in conjunction with amoxicillin to manage and treat bacterial infections, specifically bacteria that are beta-lactamase producers. It is in the beta-lactamase inhibitor class of medications. This activity describes the indications, action, and contraindications for clavulanic acid as a valuable agent in the treatment of beta-lactamase-producing bacterial infections when used with amoxicillin and how the interprofessional team can use this agent to drive positive outcomes in fighting infections.\r\n"
             },
             {
-                "course5": "Dolore minim enim dolore quis ea. Ea velit non ullamco proident quis deserunt. Aliquip eu velit incididunt excepteur do in deserunt et labore amet labore tempor.\r\n"
+                "name": "Flucloxacillin Sodium",
+                "course": "Flucloxacillin Sodium is an antibiotic. It kills bacteria by preventing them from forming their own protective covering (cell wall) which is needed for them to survive. This treats your infection.Common side effects of Flucloxacillin SodiumNausea, Vomiting, Diarrhea, Allergic reaction, Injection site reactions (pain, swelling, redness)\r\n"
             }
         ],
         "registered": "2016-04-07T03:20:55 -06:00"
     },
     {
         "id": "635795fdc2c813e0y6tc474c32f",
-        "picture": "http://placehold.it/32x32",
-        "name": "Shelby Pratt",
-        "duration": "Mack West",
+        "picture": "https://img.freepik.com/free-photo/pathogenic-virus-bacteria-cell-blood-stream-coronavirus-global-pandemia-3d-render_482257-17611.jpg?w=1380&t=st=1666692256~exp=1666692856~hmac=b9b0fbb34481789275a554285db2b5bb3ae6a5d147de307a3df6499cee8be27f",
+        "name": "Cefprozil disease",
+        "duration": "23.45 hr",
         "email": "mackwest@ziggles.com",
         "phone": "+1 (883) 592-3833",
         "courses": [
             {
-                "course1": "Qui magna aliqua sunt est qui excepteur laborum ullamco commodo amet dolore commodo ad. Amet sit esse officia incididunt fugiat do non in labore. course5 amet sint reprehenderit ipsum nostrud. Nostrud officia reprehenderit sunt ea culpa magna esse officia acourse5e et enim ex dolor fugiat. Deserunt eiusmod ex quis occaecat sit ea incididunt non acourse5e enim ex.\r\n"
+                "name": "Cefuroxime Axetil",
+                "course": "Cefuroxime comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken every 12 hours for 5-10 days, depending on the condition being treated. To treat gonorrhea, cefuroxime is taken as a single dose, and to treat Lyme disease, cefuroxime is taken every 12 hours for 20 days. Take the suspension with food; the tablet may be taken with or without food . Take cefuroxime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefuroxime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.\r\n"
             },
             {
-                "course2": "Eu aliquip labore nulla exercitation occaecat dolor occaecat est esse veniam consectetur id. Ex cillum id amet proident in sint incididunt deserunt voluptate. Do course5 magna veniam ex cillum.\r\n"
+                "name": "Azithromycin",
+                "course": "Azithromycin is used to treat many different types of infections caused by bacteria, such as respiratory infections, skin infections, ear infections, eye infections, and sexually transmitted diseases. Azithromycin may also be used for purposes not listed in this medication guide.\r\n"
             },
             {
-                "course3": "course5 irure deserunt laborum deserunt. Id enim amet cupidatat enim Lorem ex labore deserunt minim sit enim non. Nulla cillum dolore pariatur adipisicing irure acourse5e eu sint ea commodo do exercitation consectetur. Reprehenderit ex non tempor reprehenderit id ipsum duis Lorem commodo ipsum. Ad elit excepteur consectetur amet course5 enim dolore consectetur Lorem deserunt consectetur anim nostrud. Pariatur consectetur proident irure consectetur sunt mollit nisi sit esse enim sunt laboris sit.\r\n"
+                "name": "Cefixime trihydrate",
+                "course": "Cefixime is an antibiotic that may be used to treat many different types of infections caused by bacteria.Cefixime stops bacteria from forming a cell wall, which bacteria need to survive. This decreases the number of bacteria in your body, which helps your body fight the infection.\r\n"
             },
             {
-                "course4": "Do sint officia non ullamco dolore non acourse5e anim do consectetur sit ullamco. Adipisicing et acourse5e id exercitation sit laborum commodo. Tempor reprehenderit consectetur Lorem sint commodo velit officia.\r\n"
+                "name": "Clavulanic acid",
+                "course": "Clavulanic acid is a medication that can be used in conjunction with amoxicillin to manage and treat bacterial infections, specifically bacteria that are beta-lactamase producers. It is in the beta-lactamase inhibitor class of medications. This activity describes the indications, action, and contraindications for clavulanic acid as a valuable agent in the treatment of beta-lactamase-producing bacterial infections when used with amoxicillin and how the interprofessional team can use this agent to drive positive outcomes in fighting infections.\r\n"
             },
             {
-                "course5": "Dolore minim enim dolore quis ea. Ea velit non ullamco proident quis deserunt. Aliquip eu velit incididunt excepteur do in deserunt et labore amet labore tempor.\r\n"
+                "name": "Flucloxacillin Sodium",
+                "course": "Flucloxacillin Sodium is an antibiotic. It kills bacteria by preventing them from forming their own protective covering (cell wall) which is needed for them to survive. This treats your infection.Common side effects of Flucloxacillin SodiumNausea, Vomiting, Diarrhea, Allergic reaction, Injection site reactions (pain, swelling, redness)\r\n"
             }
         ],
         "registered": "2016-04-07T03:20:55 -06:00"
     },
     {
         "id": "635795fdc2c813e08c474cg2f",
-        "picture": "http://placehold.it/32x32",
-        "name": "Shelby Pratt",
-        "duration": "Mack West",
+        "picture": "https://img.freepik.com/free-photo/woman-suffering-from-flower-allergy_23-2149561557.jpg?w=1380&t=st=1666692310~exp=1666692910~hmac=4c93706674b9b4198fb96324696d3dce0aab1c87bd639eb98b1bed5263f91607",
+        "name": "Allergic reaction",
+        "duration": "19.55 hr",
         "email": "mackwest@ziggles.com",
         "phone": "+1 (883) 592-3833",
         "courses": [
             {
-                "course1": "Qui magna aliqua sunt est qui excepteur laborum ullamco commodo amet dolore commodo ad. Amet sit esse officia incididunt fugiat do non in labore. course5 amet sint reprehenderit ipsum nostrud. Nostrud officia reprehenderit sunt ea culpa magna esse officia acourse5e et enim ex dolor fugiat. Deserunt eiusmod ex quis occaecat sit ea incididunt non acourse5e enim ex.\r\n"
+                "name": "Cefuroxime Axetil",
+                "course": "Cefuroxime comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken every 12 hours for 5-10 days, depending on the condition being treated. To treat gonorrhea, cefuroxime is taken as a single dose, and to treat Lyme disease, cefuroxime is taken every 12 hours for 20 days. Take the suspension with food; the tablet may be taken with or without food . Take cefuroxime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefuroxime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.\r\n"
             },
             {
-                "course2": "Eu aliquip labore nulla exercitation occaecat dolor occaecat est esse veniam consectetur id. Ex cillum id amet proident in sint incididunt deserunt voluptate. Do course5 magna veniam ex cillum.\r\n"
+                "name": "Azithromycin",
+                "course": "Azithromycin is used to treat many different types of infections caused by bacteria, such as respiratory infections, skin infections, ear infections, eye infections, and sexually transmitted diseases. Azithromycin may also be used for purposes not listed in this medication guide.\r\n"
             },
             {
-                "course3": "course5 irure deserunt laborum deserunt. Id enim amet cupidatat enim Lorem ex labore deserunt minim sit enim non. Nulla cillum dolore pariatur adipisicing irure acourse5e eu sint ea commodo do exercitation consectetur. Reprehenderit ex non tempor reprehenderit id ipsum duis Lorem commodo ipsum. Ad elit excepteur consectetur amet course5 enim dolore consectetur Lorem deserunt consectetur anim nostrud. Pariatur consectetur proident irure consectetur sunt mollit nisi sit esse enim sunt laboris sit.\r\n"
+                "name": "Cefixime trihydrate",
+                "course": "Cefixime is an antibiotic that may be used to treat many different types of infections caused by bacteria.Cefixime stops bacteria from forming a cell wall, which bacteria need to survive. This decreases the number of bacteria in your body, which helps your body fight the infection.\r\n"
             },
             {
-                "course4": "Do sint officia non ullamco dolore non acourse5e anim do consectetur sit ullamco. Adipisicing et acourse5e id exercitation sit laborum commodo. Tempor reprehenderit consectetur Lorem sint commodo velit officia.\r\n"
+                "name": "Clavulanic acid",
+                "course": "Clavulanic acid is a medication that can be used in conjunction with amoxicillin to manage and treat bacterial infections, specifically bacteria that are beta-lactamase producers. It is in the beta-lactamase inhibitor class of medications. This activity describes the indications, action, and contraindications for clavulanic acid as a valuable agent in the treatment of beta-lactamase-producing bacterial infections when used with amoxicillin and how the interprofessional team can use this agent to drive positive outcomes in fighting infections.\r\n"
             },
             {
-                "course5": "Dolore minim enim dolore quis ea. Ea velit non ullamco proident quis deserunt. Aliquip eu velit incididunt excepteur do in deserunt et labore amet labore tempor.\r\n"
+                "name": "Flucloxacillin Sodium",
+                "course": "Flucloxacillin Sodium is an antibiotic. It kills bacteria by preventing them from forming their own protective covering (cell wall) which is needed for them to survive. This treats your infection.Common side effects of Flucloxacillin SodiumNausea, Vomiting, Diarrhea, Allergic reaction, Injection site reactions (pain, swelling, redness)\r\n"
             }
         ],
         "registered": "2016-04-07T03:20:55 -06:00"

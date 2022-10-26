@@ -3,6 +3,7 @@ const app = express()
 const cors = require('cors')
 const instructors = require('./data/instructors.json')
 const courses = require('./data/courses.json')
+const medicines = require('./data/medicines.json')
 
 app.use(cors())
 
@@ -29,6 +30,11 @@ app.get('/courses/:id', (req, res) => {
     const singleCourse = courses.find(c => c.id === id)
     res.send(singleCourse)
 })
+
+app.get('/medicines', (req, res) => {
+    res.send(medicines)
+})
+
 app.listen(port, () => {
     console.log('app is running in port', port)
 })

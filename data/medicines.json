@@ -87,7 +87,7 @@
         "id": "6358fa9e80da3fe8b48dea5d",
         "picture": "https://www.squarepharma.com.bd/products/Vori-01_l.jpg",
         "name": "Vori™",
-        "company": "SINGAVERA",
+        "company": "Square",
         "about": "Voriconazole Tablet is to be taken at least one hour before or one hour following a meal. For Patients 40 kg or above Loading Dose: 400 mg twice daily (for the first 24 hours) Maintenance Dose: 200 mg twice daily (from the 2nd day) For Patients less than 40 kg Loading Dose: 200 mg twice daily \r\n"
     },
     {
@@ -152,5 +152,145 @@
         "name": "Truxil™",
         "company": "Square",
         "about": "Reduces Neurological damage & accelerates recovery after stroke, Minor age related neurological disorders, Visual disorders related to age, Disorders in the inners ear (hearing loss, dizziness, buzzing etc.)\r\n"
+    },
+    {
+        "id": "6358fa9e2f1dde405af6d2c1b",
+        "picture": "https://www.hplbd.com/products/Protovir_25-mg.jpg",
+        "name": "Protovir®",
+        "company": "Healthcare",
+        "about": "Tenofovir Alafenamide Fumarate, a hepatitis B virus (HBV) nucleoside analog reverse transcriptase inhibitor, is converted into tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5'-monophosphate.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1dde405f6dfaas2c1b",
+        "picture": "https://www.hplbd.com/products/Pregel_Tablet_40-mg.jpg",
+        "name": "Pregel®",
+        "company": "Healthcare",
+        "about": "Pantoprazole is a substituted benzimidazole which inhibits the secretion of hydrochloric acid in the stomach by specific action on the proton pumps of the parietal cells.\r\n"
+    },
+    {
+        "id": "6358fa9e2sdf1dde405f6d2c1b",
+        "picture": "https://www.hplbd.com/products/Alcet-Tablet-5-mg.jpg",
+        "name": "Alcet",
+        "company": "Healthcare",
+        "about": "Alcet® tablet is a presentation of Levocetirizine Di-hydrochloride. Levocetirizine is the active (Levo) isomer of cetirizine. It is a new highly effective and well-tolerated non-sedating antihistamine with potent anti-allergic properties. It has a twofold higher affinity for H1 receptors than cetirizine.\r\n"
+    },
+    {
+        "id": "635ad8fa9e2f1dde405f6d2c1b",
+        "picture": "https://www.hplbd.com/products/Betmira-ER_Tablet_25-mg.jpg",
+        "name": "Betmira",
+        "company": "Healthcare",
+        "about": "Symptomatic treatment of urgency, increased micturition frequency and/or urgency incontinence as may occur in adult patients with overactive bladder (OAB) syndrome.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1ddeas405f6d2c1b",
+        "picture": "https://www.hplbd.com/products/Candinil_Capsule_50mg.jpg",
+        "name": "Candinil",
+        "company": "Healthcare",
+        "about": "Fluconazole is the most popular antifungal among azoles. Fluconazole is the first line therapy for fungal infections and is well established as a first-line management option for the treatment and prophylaxis of localized and systemic C. albicans infections.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1ddeas405f6d2c1b",
+        "picture": "https://www.hplbd.com/products/Disys_-Tablet_80-mg.jpg",
+        "name": "Disys®",
+        "company": "Healthcare",
+        "about": "Valsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland. Its action is therefore independent of the pathways for angiotensin II synthesis.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1dde405f6daer2c1b",
+        "picture": "https://www.hplbd.com/products/Emistat_Tablet_8mg.jpg",
+        "name": "Emistat®",
+        "company": "Healthcare",
+        "about": "Emistat® is indicated for the prevention and treatment of post-operative nausea and vomiting, and for the management of nausea and vomiting induced by cytotoxic chemotherapy and radiotherapy.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1dde405f6daw2c1b",
+        "picture": "https://www.hplbd.com/products/Esita_Tablet_5-mg.jpg",
+        "name": "Esita®",
+        "company": "Healthcare",
+        "about": "Escitalopram is an oral drug that is used for treating depression and generalized anxiety disorder. It works by affecting neurotransmitters in the brain, the chemical messengers that nerves use to communicate with one another. Neurotransmitters are made and released by nerves and then travel to other nearby nerves where they attach to receptors on the nerves. \r\n"
+    },
+    {
+        "id": "63aw58fa9e2f1dde405f6d2c1b",
+        "picture": "https://www.hplbd.com/products/Sergel_Sachet_20-mg.jpg",
+        "name": "Sergel",
+        "company": "Healthcare",
+        "about": "Esomeprazole is a proton pump inhibitor that suppresses gastric acid secretion by specific inhibition of the H+/K+-ATPase, the ‘Proton Pump’ of the gastric parietal cell.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1dde4afae05f6d2c1b",
+        "picture": "https://www.drug-international.com/uploads/product_images/1620537803Anilic.png",
+        "name": "ANILIC",
+        "company": "Drug",
+        "about": "There are no adequate and wellcontrolled studies in pregnant women. During the first and second trimester of pregnancy, Tolfenamic acid should not be given unless clearly necessary. Like other NSAIDs.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1dde40araw5f6d2c1b",
+        "picture": "https://www.drug-international.com/uploads/product_images/1660641123Apit-40%20Tablet-%20Carton%20Pic.png",
+        "name": "APIT",
+        "company": "Drug",
+        "about": "Megestrol Acetate is indicated for the palliative treatment of advanced carcinoma of the breast or endometrium (i.e., recurrent, inoperable, or metastatic disease). It should not be used in lieu of currently accepted procedures such as surgery, radiation, or chemotherapy. It is also indicated for the treatment of anorexia, cachexia, or weight loss secondary to metastatic cancer.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1ddafaee405f6d2c1b",
+        "picture": "https://www.drug-international.com/uploads/product_images/1617785654Azimex-500%20Carton%20Pic.png",
+        "name": "AZIMEX",
+        "company": "Drug",
+        "about": "Azithromycin is indicated for the treatment of Acute bacterial exacerbations of chronic obstructive pulmonary disease, Acute bacterial sinusitis, Community acquired pneumonia due to Chlamydia pneumoniae. Haemophilus influenzae, Mycoplasma pneumoniae or Streptococcus pneumoniae in patients appropriate for oral therapy. It is also indicated for pharyngitis, tonsillitis, uncomplicated skin and skin structure infections, urethritis and cervicitis and Genital ulcer disease.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1dafede405f6d2c1b",
+        "picture": "https://www.drug-international.com/uploads/product_images/1634032436Caldil-Plus.png",
+        "name": "CALDIL PLUS",
+        "company": "Drug",
+        "about": "Calcium and Vitamin D is prescribed for treatment of osteoporosis, osteomalacia, rickets, tetany, and parathyroid disease. Calcium supplements are often used to ensure adequatey intake in conditions such as pregnancy, nursing, kidney disease, and pancreatitis or during therapy with antiseizure medications.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1afsdde405f6d2c1b",
+        "picture": "https://www.drug-international.com/uploads/product_images/1660203232Cosec-Mups%2020.png",
+        "name": "Co-Sec",
+        "company": "Drug",
+        "about": "It is used for duodenal and Gastric Ulcers, NSAID-induced gastric and duodenal ulcers, Reflux Oesophagitis, GERD (Gastroesophageal Reflux Disease), eradication of H.pylori with appropriate antibiotics &Zollinger-Ellison Syndrome.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1ddegr405f6d2c1b",
+        "picture": "https://www.drug-international.com/uploads/product_images/1634623405Dialiptin%20M%20500%20Carton.png",
+        "name": "DIALIPTIN - M",
+        "company": "Drug",
+        "about": "It is indicated in the treatment of type 2 diabetes mellitus patients who are unable to achieve sufficient glycaemic control at their maximally tolerated dose of oral metformin alone or who are already treated with the combination of vildagliptin and metformin as separate tablets.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1dhtde405f6d2c1b",
+        "picture": "https://www.drug-international.com/uploads/product_images/1634032477Dicaltrol%20Plus.png",
+        "name": "DICALTROL PLUS",
+        "company": "Drug",
+        "about": "This combination is used to prevent or treat low blood calcium levels in people who do not get enough calcium from their diets. It may be used to treat conditions caused by low calcium levels such as bone loss (osteoporosis), weak bones (osteomalacia, rickets), decreased activity of the parathyroid gland (hypoparathyroidism) and a certain muscle disease (latent tetany). It may also be used in certain patients to make sure they are getting enough calcium (e.g. postmenopausal).\r\n"
+    },
+    {
+        "id": "6358fa9e2f1ddew3405f6d2c1b",
+        "picture": "http://www.inceptapharma.com/products/1654322805_1_Alneed%20Gold.jpg",
+        "name": "Alneed Gold",
+        "company": "Incepta Pharmaceuticals",
+        "about": "Alneed Gold is a special preparation of Iron Polymaltose Complex, Folic Acid, Zinc, and B-vitamins. Iron Polymaltose Complex is a water soluble, macromolecular complex of poly nuclear iron (III) hydroxide and partially hydrolysed dextrin ( Polymaltose). It does not interact with the food components and other medications and so there is no decrease in bioavailability of Iron Polymaltose Complex. This makes sure that with the consumption of this complex, iron gets utilized at a faster rate in the haemoglobin synthesis. Folic acid prevents neural tube defects. Zinc is essential for many metabolic processes, blood formation\r\n"
+    },
+    {
+        "id": "6358fa9e2f1dde44305f6d2c1b",
+        "picture": "http://www.inceptapharma.com/products/Bisopro%205%20Plus%20Tab.jpg",
+        "name": "Bisopro Plus",
+        "company": "Incepta Pharmaceuticals",
+        "about": "Bisoprolol is an effective treatment of hypertension in once-daily doses of 2.5 mg to 40 mg, while hydrochlorothiazide is effective in doses of 12.5 mg to 50 mg. In clinical trials of bisoprolol/hydrochlorothiazide combination therapy using bisoprolol doses of 2.5 mg to 20 mg and hydrochlorothiazide doses of 6.25 mg to 25 mg.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1dde40q235f6d2c1b",
+        "picture": "http://www.inceptapharma.com/products/Linatab%20M%202.5%20%20%20%20500.jpg",
+        "name": "Linatab M",
+        "company": "Incepta Pharmaceuticals",
+        "about": "LINATAB M is a combination of 2 oral antihyperglycemic drugs with complimentary mechanism of action to improve glycemic control in patients with type-2 diabetes mellitus: Linagliptin, a Dipeptidyl Peptidase-4 (DPP-4) inhibitor and Metformin, a member of the biguanide class.\r\n"
+    },
+    {
+        "id": "6358fa9e2f1dde44205f6d2c1b",
+        "picture": "http://www.inceptapharma.com/products/Lopirel%20Tab%20Main.jpg",
+        "name": "Lopirel",
+        "company": "Incepta Pharmaceuticals",
+        "about": "Lopirel (Clopidogrel) is an inhibitor of platelet aggregation. Lopirel (Clopidogrel) selectively inhibits the binding of adenosine diphosphate (ADP) to its platelet receptor and the subsequent ADP-mediated activation of the glycoprotein GPIIb/IIIa complex, thereby inhibiting platelet aggregation.\r\n"
     }
 ]
